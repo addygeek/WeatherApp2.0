@@ -8,5 +8,6 @@ Weather is sometimes difficult to predict. This accurate weather app allows to f
 - Wind speed and direction
 - Pressure and precipitation information 
 ### Sample-Image
-![Homepage](Picture/Screenshot2023-07-25094602.png)
-![Homepage](Picture/Screenshot2023-07-25094602.png)
+![Screenshot 2023-07-25 094602](https://github.com/LincyBainiwal/WeatherApp2.0/assets/129520182/cb29afeb-4552-4dd1-a1dc-2f0c0f4c4fa9)
+
+![Screenshot 2023-07-25 094618](https://github.com/LincyBainiwal/WeatherApp2.0/assets/129520182/3e372d12-76e5-432d-bae2-d271469ea2e3)
