@@ -21,7 +21,7 @@ let updateCurrentWeather = (data) => {
    humidity.textContent = 'https://'+data.current.humidity + '%';
    pressure.textContent = 'https://'+data.current.pressure_mb + 'mph';
     wind.textContent = 'https://'+data.current.wind_dir + ', ' + 'https://'+data.current.wind_mph;
-    temperature.textContent = data.current.temp_c ;
+    temperature.textContent = 'https://'+data.current.temp_c ;
     image.src = 'https://'+ data.current.condition.icon;
     image.alt = 'https://'+data.current.condition.text;
 };
