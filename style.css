@@ -57,15 +57,15 @@ body {
     margin-right: 10px;
 }
 .weather_indicator--humidity::before {
-    background-image: url(../images/5664982.png);
+    background-image: url(5664982.png);
 }
 
 .weather_indicator--wind::before {
-    background-image: url(../images/6267527.webp);
+    background-image: url(6267527.webp);
 }
 
 .weather_indicator--pressure::before {
-    background-image: url(../images/2569196.png);
+    background-image: url(2569196.png);
 }
 .weather_temperature {
     font-size: 50px;
